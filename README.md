@@ -1,0 +1,2 @@
+# Control-the-Chaos---A-Traffic-Noise-Regulation-and-Energy-Harvesting-System
+"Control the Chaos" is a smart traffic management system built using Arduino that regulates traffic flow based on real-time noise levels and detects ambulance sirens using FFT analysis. the system also integrates piezoelectric energy harvesting to utilize road vibrations, making it an adaptive solution for modern traffic problems.  
