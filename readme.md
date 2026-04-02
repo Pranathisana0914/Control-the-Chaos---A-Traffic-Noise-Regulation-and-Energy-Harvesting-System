@@ -46,10 +46,19 @@ The GUI performs real-time audio processing using FFT to detect ambulance sirens
 ---
 
 ## 📸 Simulation Results
-![Result1](results/output1.png)
-![Result2](results/output2.png)
+![Result1](output1.png)
+![Result2](output2.png)
+
 
 ---
+
+## Circuit diagram
+![Result2](output3.png)
+
+---
+
+##Block diagram
+![Result2](output4.png)
 
 ## 🎥 Demo Video
 (Add your YouTube link here)
